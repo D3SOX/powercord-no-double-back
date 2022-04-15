@@ -1,7 +1,7 @@
 {
   "name": "No Double Back",
+  "version": "1.0.0",
   "description": "Fixes Linux Double-Back bug",
-  "author": "Squili",
-  "file": "index.js",
+  "author": "Squili, Alyxia, D3SOX",
   "license": "ISC"
 }
