@@ -1,3 +1,7 @@
+# Update 2022-09-30
+
+The bug was fixed again as of Discord Canary 150347 (4e21937), Host 0.0.139
+
 # Update 2022-09-23
 
 The bug is back as of Discord Canary 148801 (4641846), Host 0.0.139
